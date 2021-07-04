@@ -1,5 +1,4 @@
-**create a user andget a token and apply in http header for others request
-**
+**create a user andget a token and apply in http header for others request**
 ```
 mutation {
 	createUser(input: {username: "user1", password: "123"})
